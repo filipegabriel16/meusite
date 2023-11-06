@@ -8,8 +8,8 @@ body {
 
  ul {
     display: flex
-    justfy-content: space-between
+    justify-content: space-between
     list-style-type: nome;
     align-items: center;
-    pading: 16px;
+    padding: 16px;
  }
